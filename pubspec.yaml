@@ -16,6 +16,9 @@ dependencies:
   fluttertoast:
   equatable:
   dartz:
+  internet_connection_checker: ^1.0.0+1
+  shared_preferences:
+  http:
 
 dev_dependencies:
   flutter_test:
